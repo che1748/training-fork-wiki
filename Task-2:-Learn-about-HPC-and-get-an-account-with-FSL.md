@@ -2,5 +2,5 @@ Log on to https://marylou.byu.edu/ and request an account with the FSL. To compl
 I will be doing research with Prof. Douglas Tree in the Chemical Engineering Department as part of his undergraduate software development team. As part of this team, I will be working on developing massively parallel software to study polymer materials and other complex fluids. We anticipate that this software will typically run on multiple CPUs or on GPUs, and take several hours or days to complete.  
 In addition, you need to learn a little bit about high performance computing (HPC). Watch the first two (of six) introductory videos that the FSL has provided on YouTube about HPC. Additionally, spend a few minutes reading this introduction to parallel computing from Lawrence Livermore National Lab. (But don’t take too much time reading the whole thing. It is quite long.)  
 Before moving on from this task, you should:  
-*Have an active FSL account, and
-*Understand basic concepts about HPC.
+* Have an active FSL account, and
+* Understand basic concepts about HPC.
