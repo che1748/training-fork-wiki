@@ -1,9 +1,9 @@
 Thanks for your interest in doing research with me! If you haven’t done so already, please send me an email (tree.doug@byu.edu) before you start the training so we can talk about the group and potential openings. I’m excited to get to know you better, and look forward to having you in the group. 
 This document outlines a series of tasks and tutorials that I would like you to accomplish before you start as a research assistant. This process is meant to:
-*       make sure you have the necessary training,
-*       help you get a sense of what will be expected of you,
-*       give you an opportunity to prove that you can do self-directed tasks, and
-*       ensure you have sufficient time in your schedule to do research.
+*      make sure you have the necessary training,
+*      help you get a sense of what will be expected of you,
+*      give you an opportunity to prove that you can do self-directed tasks, and
+*      ensure you have sufficient time in your schedule to do research.
 	
 I anticipate that the training will take around 40 hours (or about 4 weeks if you are working 10 hrs/week) to finish. Your time spent on the training should be mostly self-directed, but I am happy to answer your questions. In other words, seek help for problems that you have tried to solve on your own first. Then, if you are still stuck or confused, feel free to email me (tree.doug@byu.edu) or come by my office (322 Clyde Building).  
 The first few tasks center around getting set up with a computer and an account at the Fulton Supercomputing Lab (FSL). Then there are a series of tasks designed to help you learn some important programming skills. You won’t have time to learn everything about the programming languages (especially C++), so don’t worry if you feel a bit lost at this point. Finally, I have a small programming project at the end that will help you tie everything together in a hands-on way.
