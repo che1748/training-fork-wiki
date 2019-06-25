@@ -1,6 +1,6 @@
 You should now be able to access the FSL, understand basic Unix, write bash scripts, submit jobs using Slurm, write code in Python and C++, and use Git! To tie this all together, I want you to do a short C++ project, run it on a cluster, and produce a plot with Matplotlib. This will help you put everything you have learned together, and see if there is anything you still don’t understand.  
 You are going to write a code to solve a linear, first-order differential equation,  
- 	\begin{equation} (dx/dt = -3x) (1)
+$$\frac{dx}{dt} = -3x$$ (1)
  
 which has the analytical solution,
 	 .	(2)
