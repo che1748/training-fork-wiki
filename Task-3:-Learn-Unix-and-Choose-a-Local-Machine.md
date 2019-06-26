@@ -19,9 +19,8 @@ If you don't want to use the Windows subsystem for Linux (WSL), connecting via s
 Unfortunately, Putty cannot do file transfers. A common FTP client for transferring files is [FileZilla](https://filezilla-project.org/). Again, you will need to follow the instructions at the website to install FileZilla and to learn to use it to transfer files.  
 \
 You have one other potential option for both ssh and FTP commands. [Bitvise](https://www.bitvise.com/index) is a putty-like program that combines SSH and FTP commands into a single software package. I have never used it, but details on installation and use can be found on its website.  
-\
 ### SSH Keys
-It can be annoying to repetitively enter your password when copying files to and from a cluster. It is possible to set up a secure key between your machine and FSL (and as you will see later, a Git server) so that you don’t have to enter your password every time you log in. [This tutorial](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html) shows you how to create an SSH key, and [this one](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/) shows you how to set up password-less log-ins.  
+It can be annoying to repetitively enter your password when copying files to and from a cluster. It is possible to set up a secure key between your machine and a remote server so that you don’t have to enter your password every time you log in or copy files or use git. [This tutorial](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html) shows you how to create an SSH key, and [this one](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/) shows you how to set up password-less log-ins. (Note: Due to security requirements, the FSL no longer allows passwordless logins to their server. Every time you log into the FSL you will need to provide your password and a verification code from your phone).  
 \
 Before moving on from this task, you should:
 * Have chosen a local machine and operating system,
