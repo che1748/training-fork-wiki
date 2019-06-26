@@ -20,7 +20,7 @@ Unfortunately, Putty cannot do file transfers. A common FTP client for transferr
 \
 You have one other potential option for both ssh and FTP commands. [Bitvise](https://www.bitvise.com/index) is a putty-like program that combines SSH and FTP commands into a single software package. I have never used it, but details on installation and use can be found on its website.  
 \
-SSH Keys
+### SSH Keys
 It can be annoying to repetitively enter your password when copying files to and from a cluster. It is possible to set up a secure key between your machine and FSL (and as you will see later, a Git server) so that you don’t have to enter your password every time you log in. [This tutorial](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html) shows you how to create an SSH key, and [this one](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/) shows you how to set up password-less log-ins.  
 \
 Before moving on from this task, you should:
