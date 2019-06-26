@@ -15,10 +15,10 @@ If the operating system on your local machine is some flavor of Linux then conne
 ### Windows  
 Windows has recently begun a project to incorporate a native Linux shell as a subsystem on Windows. Details regarding installation and use can be found at [this website](https://msdn.microsoft.com/en-us/commandline/wsl/about). This is one of the harder methods to set up initially, but once you do it tends to be the most straight forward and least buggy way of using Linux on Windows. Essentially it is like running a Linux operating system inside of Windows and it can do most of what a Linux shell can do.  
 \
-If you don't want to use the Windows subsystem for Linux (WSL), connecting via ssh can be done with a program called Putty. You will need to follow the instructions at the Putty website to install it on windows and to connect to the FSL.  
-Unfortunately, Putty cannot do file transfers. A common FTP client for transferring files is FileZilla. Again, you will need to follow the instructions at the website to install FileZilla and to learn to use it to transfer files.  
+If you don't want to use the Windows subsystem for Linux (WSL), connecting via ssh can be done with a program called Putty. You will need to follow the instructions at the [Putty](http://www.putty.org/) website to install it on windows and to connect to the FSL.  
+Unfortunately, Putty cannot do file transfers. A common FTP client for transferring files is [FileZilla](https://filezilla-project.org/). Again, you will need to follow the instructions at the website to install FileZilla and to learn to use it to transfer files.  
 \
-You have one other potential option for both ssh and FTP commands. Bitvise is a putty-like program that combines SSH and FTP commands into a single software package. I have never used it, but details on installation and use can be found on its website.  
+You have one other potential option for both ssh and FTP commands. [Bitvise](https://www.bitvise.com/index) is a putty-like program that combines SSH and FTP commands into a single software package. I have never used it, but details on installation and use can be found on its website.  
 \
 Before moving on from this task, you should:
 * Have chosen a local machine and operating system,
