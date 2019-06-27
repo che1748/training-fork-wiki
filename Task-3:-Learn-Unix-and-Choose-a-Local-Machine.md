@@ -27,4 +27,4 @@ Before moving on from this task, you should:
 * Be able to log on to/log off from the FSL,
 * Be able to create, move, and delete files and directories on the cluster,
 * Be able to copy files and directories to/from your local machine to the cluster
-* Set up SSH keys as desired
+* Know what SSH keys are and how to use them
