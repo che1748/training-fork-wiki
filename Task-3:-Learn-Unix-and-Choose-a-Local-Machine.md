@@ -6,7 +6,7 @@ Once you are familiar with Unix commands, you will need to decide what computer 
 \
 The operating system that is installed on the local machine has an impact on the software you can use to do your work. Because the super-computers run Linux, it is often convenient to use a local machine that is also running Linux. However, this is not necessary, and may not be desirable if you do not feel comfortable with it. This is a choice you will have to make for yourself; I have no preference what you use, I simply want you to be productive :).  
 \
-There are CAEDM computers available with Linux, and the machine in my lab is a Linux box. If you have a personal laptop, you may decide to experiment with installing Linux alongside Windows or in a virtual machine. (Note: there are many “flavors” of Linux that you can install. [Ubuntu](https://www.ubuntu.com/desktophttps://www.ubuntu.com/desktop) is a particularly user-friendly version that you may want to look up, if you decide to go this route.) Again, this is up to you.  
+There are CAEDM computers available with Linux, and the machine in my lab is a Linux box. If you have a personal laptop, you may decide to experiment with installing Linux alongside Windows or in a virtual machine. (Note: there are many “flavors” of Linux that you can install. [Ubuntu](https://www.ubuntu.com/desktop) is a particularly user-friendly version that you may want to look up, if you decide to go this route.) Again, this is up to you.  
 \
 Once you have decided what machine and operating system to use, attempt to log in to the FSL head node at ssh.fsl.byu.edu. Procedures for different operating systems are outlined below. Some additional information can be found on the FSL website.  
 
