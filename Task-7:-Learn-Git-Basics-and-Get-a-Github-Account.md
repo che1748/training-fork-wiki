@@ -9,5 +9,5 @@ Once you have an account, you will need to do two things to get Github to track 
 Before moving on from this task, you should:  
 
 * Know how to set up a git repository, how to commit, and how to create, delete and merge branches,
-* Have a Bitbucket account,
-* Be able to push from your local repo to your Bitbucket account and pull from Bitbucket to your local repo.
+* Have a Github account,
+* Be able to push from your local repo to your Github account and pull from Github to your local repo.
