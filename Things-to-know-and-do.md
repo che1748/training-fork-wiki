@@ -33,5 +33,5 @@ Task 6:
 
 Task 7:   
 * Know how to set up a git repository, how to commit, and how to create, delete and merge branches,
-* Have a Bitbucket account,
-* Be able to push from your local repo to your Bitbucket account and pull from Bitbucket to your local repo.
+* Have a Github account,
+* Be able to push from your local repo to your Github account and pull from Github to your local repo.
