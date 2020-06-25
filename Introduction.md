@@ -5,7 +5,9 @@ This document outlines a series of tasks and tutorials that I would like you to 
 *	give you an opportunity to prove that you can do self-directed tasks, and
 *	ensure you have sufficient time in your schedule to do research.
 	
-I anticipate that the training will take around 40 hours (or about 4 weeks if you are working 10 hrs/week) to finish. Your time spent on the training should be mostly self-directed, but I am happy to answer your questions. In other words, seek help for problems that you have tried to solve on your own first. Then, if you are still stuck or confused, feel free to email me (tree.doug@byu.edu) or come by my office (330B Engineering Building).  
+I anticipate that the training will take around 40 hours (or about 4 weeks if you are working 10 hrs/week) to finish. Your time spent on the training should be mostly self-directed, but I am happy to answer your questions. In other words, seek help for problems that you have tried to solve on your own first. Then, if you are still stuck or confused, feel free to email me (tree.doug@byu.edu) or come by my office (330B Engineering Building). 
+\
+We now have a Slack account (TreeResearchGroup). Shoot me an email and ask me to add you to Slack so you can have access to all of our group communication. Slack is also an easy way to get help. There is a channel dedicated to asking questions about the primer, and my students are typically very active in giving help.
 \
 The first few tasks center around getting set up with a computer and an account at the Fulton Supercomputing Lab (FSL). Then there are a series of tasks designed to help you learn some important programming skills. You won’t have time to learn everything about the programming languages (especially C++) so don't try to, and don’t worry if you feel a bit lost at this point. Finally, I have a small programming project at the end that will help you tie everything together in a hands-on way. **Important: Focus on the list at the bottom of each task when reading and completing the tutorials. The tutorials are long and in depth but you don't need to know everything right now.**  
 \
