@@ -9,6 +9,7 @@ If you haven't done so, please send me an email to remind me to add you to the f
 * ORC group  (shared folder space provided by ORC)
 * CAEDM J drive group (shared folder space provided by college) 
 * Slack (for remote communication)
+* Group email list
 
 In this email, please include the following information:
 * Email address
