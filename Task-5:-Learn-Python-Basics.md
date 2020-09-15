@@ -10,6 +10,6 @@ As I mentioned in the introduction, Python is a large and complex programming la
 \
 Before moving on from this task, you should:  
 
-* Be able to write a “hello world” code in Python that runs on an FSL machine,
+* Be able to write a “hello world” code in Python that runs on an ORC machine,
 * Be able to make and save a plot, and
 * Be able to use variables, loops, if/else statements and read and write from files.
