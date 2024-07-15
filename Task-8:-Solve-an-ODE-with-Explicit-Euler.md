@@ -22,5 +22,5 @@ With that background in place, do the following project.
     2.	The code should write an output file (output.dat) with  and  in separate columns.
 3.	Create a Git repository to track your changes as you write the C++ code. Make regular commits and push them to GitHub as you work.
 4.	After you are sure the code works, compile the code and place the executable in a directory called “training\bin\”
-5.	Write a Slurm script to run the executable as a batch job. Solve the equation for $t \in [0,9]$ for several different values of the time step parameter, $dt=10^{-z} \in \{ -6, -5, ..., 0 \}.$ Store the resulting input and output files in “training\data\”.
+5.	Write a Slurm script to run the executable as a batch job. Solve the equation for $t \in [0,9]$ for several different values of the time step parameter, $dt=10^{-z} \in \\{ -6, -5, ..., 0 \\}.$ Store the resulting input and output files in “training\data\”.
 6.	Write a Python script to plot the seven data sets. Calculate the error between the numerical solution you have generated and the analytical solution. Save the script and the plot in “training\plt\”.
