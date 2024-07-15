@@ -12,6 +12,7 @@ $$x(t)=e^{-3t}$$
 The numerical method you will use is called the Explicit Euler method. It is very straightforward. Assume that the derivative on the left-hand side of Eq. 1 is discrete,
 
 $$\frac{x_{i+1}-x_{i}}{t_{i+1}-t_{i}}=-3 x_i$$
+
 $$x_{i+1}=(1-3\Delta t)x_i$$
 
 With that background in place, do the following project.
